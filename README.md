@@ -1,3 +1,21 @@
+<img src="artemis-project-cover.svg" alt="audiblez - Personal fork" width="100%" />
+
+<!-- JET-FORK-OVERVIEW: provenance note; existing README retained below -->
+> **Personal fork** of [santinic/audiblez](https://github.com/santinic/audiblez), retained by [Artemis](https://github.com/NeoArtemis37) as a study and evaluation workspace.
+
+## About this fork
+
+**Area:** Text-to-speech and audiobook tooling.
+
+Project authorship, releases and support belong to the upstream maintainers. This overview does not claim an independent release or an upstream contribution. Fork-specific changes, when documented, should be distinguished from the original project.
+
+The existing project documentation is preserved below. Its badges, benchmarks, release references and support links describe the upstream project unless explicitly stated otherwise.
+
+**Upstream:** https://github.com/santinic/audiblez  
+**Licensing:** The original [LICENSE](LICENSE) and copyright notices remain applicable.
+
+---
+
 # Audiblez: Generate  audiobooks from e-books
 
 [![Installing via pip and running](https://github.com/santinic/audiblez/actions/workflows/pip-install.yaml/badge.svg)](https://github.com/santinic/audiblez/actions/workflows/pip-install.yaml)
